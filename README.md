@@ -43,5 +43,5 @@ In the code In (Dashboard.jsx) I used a method called .reduce().  it looks at yo
 ---
 
 ## Challenges I overcame: 
-I navgiated a critical backend connectivity issue by switching to implementing a local state management system for a reliable demo. 
+I navigated a critical backend connectivity issue by switching to implementing a local state management system for a reliable demo. 
 ---
