@@ -19,8 +19,9 @@ I also want to make the UI/UX and design scalable to an extent where I incorpora
 ## 🛠️ Technical Stack
 * **Frontend:** React
 * **Styling:** Tailwind CSS (Custom Soft-UI / Bubbly Aesthetic)
-* **Data Visualization:** UI designed for future Chart.js integration
+* **Data Visualization:** UI designed for future Chart.js integration.
 * **Architecture:** Component-driven design for rapid scaling and modularity.
+* **AI:** Used for rapid prototyping and component structuring.
 
 ---
 
@@ -28,6 +29,7 @@ I also want to make the UI/UX and design scalable to an extent where I incorpora
 * **The Engine:** A custom aggregator that sorts and ranks destinations based on total financial weight.
 * **Dynamic Analytics:** A responsive bar chart that updates in real-time as new "stakes" are added.
 * **Group Sync:** Unique group ID generation to simulate a shared environment.
+* **AI Integration:** While the current version is logic for the MVP, the React state is designed work well with LLM prompts ensuring smooth transition to a possible automated agent version.
 * **Soft-UI Design:** A "no-edge" aesthetic built with custom Tailwind configurations and the Fredoka/Quicksand font families for a modern, friendly user experience.
 
 ---
