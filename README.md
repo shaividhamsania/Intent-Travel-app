@@ -18,7 +18,7 @@ I also want to make the UI/UX and design scalable to an extent where I incorpora
 
 ## 🛠️ Technical Stack
 * **Frontend:** React
-* **Styling:** Tailwind CSS (Custom "Soft-UI" / Bubbly Aesthetic)
+* **Styling:** Tailwind CSS (Custom Soft-UI / Bubbly Aesthetic)
 * **Data Visualization:** Chart.js
 * **Data Synthesis:** JavaScript Reduce Accumulator 
 * **Architecture:** Component-driven design for rapid scaling and modularity.
